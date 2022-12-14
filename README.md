@@ -1,7 +1,7 @@
 # Diogo Beijinha
 - 🌎 Currently an Exchange Student
-- 🎮 Currently studying about Game Development in Unity
-- 🥅 2022 Goals: Be able to develop games in Unity
+- 🔐 Currently studying about Cybersecurity and Pentesting
+- 🥅 2023 Goals: Compete in CTFs
 
 ## Contact Me!  <br>
 <br>
