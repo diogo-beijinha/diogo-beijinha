@@ -1,7 +1,7 @@
 # Diogo Beijinha
-- 🌎 Currently an Exchange Student
-- 🔐 Currently studying about Cybersecurity and Pentesting
-- 🥅 2023 Goals: Compete in CTFs
+- 🌎 Looking for a job
+- 🔐 Currently studying about Django and React
+- 🥅 2023 Goals: Move to Ireland
 
 ## Contact Me!  <br>
 <br>
@@ -13,9 +13,9 @@
 ## About me
 
 > * 20
-> * Software Developer | AI Developer
-> * Cork - Ireland
-> * Tisalabs
+> * Software Developer
+> * Lisbon - Portugal
+> * Unemployed
 
 
 ### Tools:
