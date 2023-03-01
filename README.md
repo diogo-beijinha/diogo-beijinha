@@ -1,6 +1,6 @@
 # Diogo Beijinha
 - 🌎 Looking for a job
-- 🔐 Currently studying about Django and React
+- 🔐 Currently studying about Django and A.I/ML
 - 🥅 2023 Goals: Move to Ireland
 
 ## Contact Me!  <br>
