@@ -1,7 +1,7 @@
 # Diogo Beijinha
-- 🌎 Looking for a job
-- 🔐 Currently studying about Django and A.I/ML
-- 🥅 2023 Goals: Move to Ireland
+- 🌎 Junior Software Developer
+- 🔐 Currently studying about Networks and Cyber Security
+- 🥅 2024 Goals: Gain Networking skills
 
 ## Contact Me!  <br>
 <br>
@@ -12,10 +12,10 @@
 
 ## About me
 
-> * 20
-> * Software Developer
+> * 21
+> * Junior Software Developer
 > * Lisbon - Portugal
-> * Unemployed
+> * Full-Stack .NET Developer
 
 
 ### Tools:
