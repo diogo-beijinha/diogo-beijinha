@@ -68,4 +68,4 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi1207.photobucket.com%2Falbums%2Fbb466%2FMikairuDaidouji%2Ftoothychibisis.gif&f=1&nofb=1&ipt=92d285dfa79a55496eb0e52b558f42b56d194fd7148ebccca865d93884a76f4b&ipo=images" height="80"/>
 
 ---
-<img src="https://visitor-badge.laobi.icu/badge?page_id=diogo-beijinha.diogo-beijinha"/>   [![Gmail Badge](https://img.shields.io/badge/-diogobeijinha24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diogobeijinha24@gmail.com)](mailto:diogobeijinha24@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-DiogoBeijinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogobeijinha)](https://www.linkedin.com/in/diogobeijinha)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=diogo-beijinha.diogo-beijinha"/>      [![Linkedin Badge](https://img.shields.io/badge/-DiogoBeijinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogobeijinha)](https://www.linkedin.com/in/diogobeijinha)
