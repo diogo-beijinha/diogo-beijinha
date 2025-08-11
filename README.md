@@ -1,7 +1,7 @@
 # Diogo Beijinha
 - 🌎 Junior Software Developer
-- 🔐 Currently studying about Networks and Cyber Security
-- 🥅 2024 Goals: Gain Networking skills
+- 🔐 Currently studying for the eJPT certification
+- 🥅 2025 Goals: Get the eJPT certification
 
 ## Contact Me!  <br>
 <br>
@@ -12,10 +12,10 @@
 
 ## About me
 
-> * 21
-> * Junior Software Developer
+> * 22
+> * Junior Systems Support
 > * Lisbon - Portugal
-> * Full-Stack .NET Developer
+> * Pentesting Enthusiast
 
 
 ### Tools:
