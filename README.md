@@ -1,5 +1,5 @@
 # Diogo Beijinha
-- 🌎 Junior Software Developer
+- 🌎 Junior Systems Support
 - 🔐 Currently studying for the eJPT certification
 - 🥅 2025 Goals: Get the eJPT certification
 
