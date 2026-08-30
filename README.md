@@ -1,7 +1,6 @@
 # Diogo Beijinha
 - 🌎 Junior Systems Support
-- 🔐 Currently studying for the eJPT certification
-- 🥅 2025 Goals: Get the eJPT certification
+- 🔐 Currently studying for the SEC 1 certification
 
 ## Contact Me!  <br>
 <br>
@@ -12,7 +11,7 @@
 
 ## About me
 
-> * 22
+> * 24
 > * Junior Systems Support
 > * Lisbon - Portugal
 > * Pentesting Enthusiast
